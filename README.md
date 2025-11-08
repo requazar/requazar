@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make music! I've got a wonderful teacher and awesome friends to help me learn.
 - 💞️ I’m currently not taking commissions for music, but that may change in the future. Message reqvazar on discord to check if commissions are open. 
 - 📫 You can message reqvazar on discord. Any other form of communication I do not use or will not share.
-- 😄 Pronouns: They/She
+- 😄 Pronouns: They/Them
 - You can find examples of my work at https://youtube.com/@requazar
 
 <!---
