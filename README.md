@@ -11,6 +11,8 @@ Musician and Programmer
     * ??? - Coming Soon
 * Vs Hundrec
 * Vs Rytmik
+* QT: Rewired
+* FNF: Vee Mix
 * Friday Night Funkin'
 * ???
     * ??? 
