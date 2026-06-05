@@ -5,10 +5,6 @@ Musician and Programmer
 * Vs Whitty: Bonus WeekEND
 * FNF: Gooey Mix
 * Hazier River
-* Funkin' Mental
-    * Airwaves
-    * ??? - Coming Soon
-    * ??? - Coming Soon
 * Vs Hundrec
 * Vs Rytmik
 * QT: Rewired
