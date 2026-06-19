@@ -2,14 +2,15 @@
 Musician and Programmer
 
 ## Projects that I've contributed to/work on:
-* Vs Whitty: Bonus WeekEND
-* FNF: Gooey Mix
-* Hazier River
+* [Vs Whitty: Bonus WeekEND](https://github.com/WhittyBonusTeam)
+* [FNF: Gooey Mix](https://github.com/FNF-Gooey-Mix)
+* [Hazier River](https://github.com/Hazier-Devs)
 * Vs Hundrec
 * Vs Rytmik
-* QT: Rewired
+* [QT: Rewired](https://github.com/Rewired-Crew)
 * FNF: Vee Mix
-* Friday Night Funkin'
+* [Funkin' Remnants](https://github.com/RemnantsCrew)
+* [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin/pulls?q=is%3Apr+author%3Arequazar)
 * ???
     * ??? 
 
