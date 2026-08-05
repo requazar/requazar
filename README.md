@@ -8,7 +8,6 @@ Musician and Programmer
 * Vs Hundrec
 * Vs Rytmik
 * [QT: Rewired](https://github.com/RewiredCrew)
-* FNF: Vee Mix
 * [Funkin' Remnants](https://github.com/RemnantsCrew)
 * [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin/pulls?q=is%3Apr+author%3Arequazar)
 * ???
