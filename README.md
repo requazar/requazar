@@ -5,7 +5,6 @@ Musician and Programmer
 * [Vs Whitty: Bonus WeekEND](https://github.com/WhittyBonusTeam)
 * [FNF: Gooey Mix](https://github.com/FNF-Gooey-Mix)
 * [Hazier River](https://github.com/Hazier-Devs)
-* Vs Hundrec
 * Vs Rytmik
 * [QT: Rewired](https://github.com/RewiredCrew)
 * [Funkin' Remnants](https://github.com/RemnantsCrew)
