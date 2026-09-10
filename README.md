@@ -20,6 +20,7 @@ Musician and Programmer
     * Cug Engine - a game engine written in Haxe, for Haxe.
     * Cugssembly - a scripting language for Haxe that compiles to bytecode for blazin' fast runtime scripts.
     * CUG - A game about a lil' demon making his way through the world.
+* funkSTAR - A mod-hosting website for Friday Night Funkin'. Comes with its own dependency mods and command-line-interface, designed by yours truly. 
 * ZeryxGames (currently private)
     * DEFENSETRATE 
     * Adamen Ho (subsidiary of ZeryxGames)
