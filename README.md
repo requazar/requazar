@@ -15,7 +15,11 @@ Musician and Programmer
 * [QT: Rewired](https://github.com/RewiredCrew)
     * Senior Developer, Gameplay Designer 
 * [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin/pulls?q=is%3Apr+author%3Arequazar)
-    * Various Open-Source Contributions 
+    * Various Open-Source Contributions
+* Cug Studios (currently Private)
+    * Cug Engine - a game engine written in Haxe, for Haxe.
+    * Cugssembly - a scripting language for Haxe that compiles to bytecode for blazin' fast runtime scripts.
+    * CUG - A game about a lil' demon making his way through the world.
 * ZeryxGames (currently private)
     * DEFENSETRATE 
     * Adamen Ho (subsidiary of ZeryxGames)
